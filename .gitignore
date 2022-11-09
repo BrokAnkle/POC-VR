@@ -1,0 +1,15 @@
+#FOLDERS
+Library/
+Logs/
+obj/
+Temp/
+.vs/
+UserSettings/
+Assets/BNG Framework
+
+#FILETYPES
+*.log
+*.csproj
+*.sln
+*.vsconfig
+*.meta
